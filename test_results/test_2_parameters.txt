@@ -1,0 +1,10 @@
+filters=1
+
+time=500
+dtype=np.float32
+
+q_range=(0,0.6,7)
+r_range=(10,50,9)
+
+_dataset=dataset[39:] # 29:29
+precision=1e-4, down=0.8, up=1.1
